@@ -10,10 +10,10 @@ nav a {
 }
 nav ul{
    list-style-type: none;
+   display: flex;
+    flex-direction: row;
     }
 nav ul li {
-    display: flex;
-    flex-direction: row;
     padding: 10px;
     font-size: 20px;
     font-family: 'McLaren', cursive;
