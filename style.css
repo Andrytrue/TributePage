@@ -1,0 +1,27 @@
+nav {
+    background-color: #222233;
+    padding: 20px;
+    margin: 0px;
+    text-align: left;
+}
+nav a {
+    text-decoration: none;
+
+}
+nav ul{
+   list-style-type: none;
+    }
+nav ul li {
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    font-size: 20px;
+    font-family: 'McLaren', cursive;
+    
+}
+    
+
+nav a:visited {
+    color: #FFF;
+
+}
