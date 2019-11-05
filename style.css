@@ -1,5 +1,5 @@
 a {
-    color: darkorange;
+    color: rgb(150, 11, 11);
     text-decoration: none;
 }
 
@@ -7,6 +7,21 @@ a {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
-    background: darkslategrey;
+    background: rgb(24, 26, 26);
+    font-family: Mclaren;
+    padding: 20px;
+    border-radius: 15px;
+}
+.header_sections {
+    display: flex;
+    align-items: center;
+}
+
+.header_item {
+    padding: 5px 15px;
+    font-size: 25px;
+    margin-left: 10px;
+}
+.header_item:hover {
     color: red;
 }
