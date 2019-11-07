@@ -33,12 +33,11 @@
 }
 
 #secondHeader {
-    background: url("https://liquipedia.net/commons/images/thumb/1/1b/Dendi_DHS_2015.jpg/600px-Dendi_DHS_2015.jpg");
+    background-image: url("https://dota2freaks.com/wp-content/uploads/sites/10/2019/08/dota-2-progamer-dendi.jpg");
+    background-position: center top;
     background-repeat: no-repeat;
-    background-position: center;
-    height: 300px;
-    width: 300px;
-    margin: 5px;
+    width: auto;
+    height: auto;
 }
 
 h1, p {
